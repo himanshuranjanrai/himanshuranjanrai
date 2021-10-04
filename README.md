@@ -3,7 +3,7 @@
 🔹  📚  Currently learning Data Science   
 🔹  💞️  Looking to collaborate on Python Projects  
 
-📶 CONTACT DETAIL  
+📶 CONTACT DETAILS  
 🔹 LinkedIn: https://www.linkedin.com/in/himanshu-ranjan-rai-843975158/     
 🔹 E-mail  : himanshuranjanrai45@gmail.com
 
