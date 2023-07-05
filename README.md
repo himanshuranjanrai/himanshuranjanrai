@@ -1,7 +1,5 @@
-🔹  👋  Hi, I’m Himanshu Ranjan Rai   
-🔹  👀  I’m interested in AI Stuffs   
+🔹  👋  Hi, I’m Himanshu Ranjan Rai    
 🔹  📚  Currently I am working as an Application Developer  
-🔹  💞️  I am currently brushing up my Full stack skills
 
 📶 CONTACT DETAILS  
 🔹 LinkedIn: https://www.linkedin.com/in/himanshu-ranjan-rai-843975158/     
